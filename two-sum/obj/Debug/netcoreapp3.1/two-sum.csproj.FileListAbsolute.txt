@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\two-sum\two-sum\bin\Debug\netcoreapp3.1\two-sum.exe
+C:\Users\ASUS\source\repos\two-sum\two-sum\bin\Debug\netcoreapp3.1\two-sum.deps.json
+C:\Users\ASUS\source\repos\two-sum\two-sum\bin\Debug\netcoreapp3.1\two-sum.runtimeconfig.json
+C:\Users\ASUS\source\repos\two-sum\two-sum\bin\Debug\netcoreapp3.1\two-sum.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\two-sum\two-sum\bin\Debug\netcoreapp3.1\two-sum.dll
+C:\Users\ASUS\source\repos\two-sum\two-sum\bin\Debug\netcoreapp3.1\two-sum.pdb
+C:\Users\ASUS\source\repos\two-sum\two-sum\obj\Debug\netcoreapp3.1\two-sum.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\two-sum\two-sum\obj\Debug\netcoreapp3.1\two-sum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\two-sum\two-sum\obj\Debug\netcoreapp3.1\two-sum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\two-sum\two-sum\obj\Debug\netcoreapp3.1\two-sum.dll
+C:\Users\ASUS\source\repos\two-sum\two-sum\obj\Debug\netcoreapp3.1\two-sum.pdb
